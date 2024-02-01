@@ -1,4 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W2OZK5H)
 
 # 4get
 4get is a metasearch engine that doesn't suck (they live in our walls!)
@@ -207,7 +206,7 @@ Replace relevant values and start with `docker compose up -d`
 
 1. Install dependencies:
 
-`sudo apt install caddy php8.2-dom php8.2-imagick imagemagick php8.2-curl curl php8.2-apcu git`
+`sudo apt install caddy php8.2-fpm php8.2-dom php8.2-imagick imagemagick php8.2-curl curl php8.2-apcu git`
 
 2. Clone this repository where you want to host this from:
 
